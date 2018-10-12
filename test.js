@@ -4,4 +4,7 @@
 // 2018101116:27   feature1
 // 
 
+function test() {
+    
+}
 // 
