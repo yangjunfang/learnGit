@@ -15,4 +15,8 @@ function test2() {
 function test3() {
     
 }
+
+function f() {
+    
+}
 // 
