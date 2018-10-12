@@ -1,22 +1,16 @@
-
-// add text branch m
-
 // 2018101116:27   feature1
 // 
-
-function test() {
-    
-}
-
-function test2() {
-    
-}
-
-function test3() {
-    
-}
-
 function f() {
     
 }
-// 
+function hahhah() {
+    
+}
+
+
+function aaaaaa() {
+    
+}
+function bbbbbb() {
+
+}
